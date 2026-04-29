@@ -13,7 +13,7 @@ A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, 
 > Switch to the [`devsecops-kenn`](../../tree/devsecops-kenn) branch for Docker, Kubernetes (EKS Auto Mode), Terraform, CI/CD with GitHub Actions, container security scanning, and more.
 >
 > ```bash
-> git checkout devops
+> git checkout devsecops-kenn
 > ```
 
 ---
